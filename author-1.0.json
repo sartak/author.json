@@ -1,0 +1,59 @@
+{
+   "openid" : "http://sartak.org/",
+   "country" : "US",
+   "city" : "Somerville",
+   "region" : "MA",
+   "profile" : [
+      {
+         "id" : "sartak",
+         "name" : "twitter"
+      },
+      {
+         "id" : "sartak",
+         "name" : "github"
+      },
+      {
+         "id" : "sartak",
+         "name" : "facebook"
+      },
+      {
+         "id" : "sartak",
+         "name" : "linkedin"
+      },
+      {
+         "id" : "sartak",
+         "name" : "perlmonks"
+      },
+      {
+         "id" : "290913",
+         "name" : "stackoverflow"
+      },
+      {
+         "id" : "sartak",
+         "name" : "slideshare"
+      }
+   ],
+   "website" : [
+      "http://sartak.org"
+   ],
+   "donation" : [
+      {
+         "name" : "paypal",
+         "id" : "sartak@gmail.com"
+      }
+   ],
+   "blog" : [
+      {
+         "feed" : "http://sartak.org/rss.xml",
+         "url": "http://sartak.org"
+      }
+   ],
+   "email" : [
+      "sartak@gmail.com",
+      "sartak@bestpractical.com",
+      "sartak@mit.edu"
+   ],
+   "perlmongers" : {
+      "name" : "Tsukuba.pm",
+   }
+}
