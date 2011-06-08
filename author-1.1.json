@@ -14,7 +14,15 @@
       },
       {
          "id" : "sartak",
+         "name" : "irc"
+      },
+      {
+         "id" : "sartak",
          "name" : "facebook"
+      },
+      {
+         "id" : "sartak",
+         "name" : "lastfm"
       },
       {
          "id" : "sartak",
