@@ -1,6 +1,7 @@
 {
    "openid" : "http://sartak.org/",
    "country" : "US",
+   "location": {lat: 42.38, lon: -71.10},
    "city" : "Somerville",
    "region" : "MA",
    "profile" : [
