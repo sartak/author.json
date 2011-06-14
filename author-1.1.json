@@ -18,6 +18,10 @@
       },
       {
          "id" : "sartak",
+         "name" : "pinboard"
+      },
+      {
+         "id" : "sartak",
          "name" : "facebook"
       },
       {
